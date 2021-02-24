@@ -20,7 +20,7 @@ class String
     chars = self.split(/\w[.!?]{1}/)
     chars.count
 
-    # binding.pry
+    binding.pry
     # punc = [".", "!", "?"]
     # sentences = 0
     #
